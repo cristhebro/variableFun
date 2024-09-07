@@ -2,6 +2,7 @@ query1 = 5 * 6
 print("The answer to your query is:", query1)
 
 query2 = 8 / 3
+#using round function to provide exact output as shown in assignment
 print("The answer to your query is:", round(query2, 8))
 
 query3 = 8 // 3
